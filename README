@@ -1,0 +1,5 @@
+Chatting with others is too mainstream. Chat with yourself!!!
+
+This is a messaging web application that establishes connection between the browser and the echo server using WebSocket.
+
+Open selfchat.html in a browser to open the websocket client.
